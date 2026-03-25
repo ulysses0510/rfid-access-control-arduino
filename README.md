@@ -65,8 +65,6 @@ rfid-access-control-arduino/
 │── README.md
 │── codigo/
 │── imagens/
-│── video/
-│── docs/
 ```
 
 ## 🚀 Possíveis Melhorias
