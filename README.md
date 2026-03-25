@@ -1,5 +1,10 @@
 # 🔐 Sistema Embarcado de Controle de Acesso com RFID e Arduino
 
+## 📸 Demonstração
+
+![Sistema RFID](imagens/experimento1)
+![Sistema RFID](imagens/experimento2)
+
 ## 📌 Descrição
 
 Este projeto consiste no desenvolvimento de um sistema embarcado de controle de acesso utilizando tecnologia RFID e Arduino. O sistema é capaz de identificar usuários por meio de tags RFID e liberar ou negar acesso com base em uma validação pré-definida.
