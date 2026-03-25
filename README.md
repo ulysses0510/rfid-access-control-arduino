@@ -2,8 +2,8 @@
 
 ## 📸 Demonstração
 
-![Sistema RFID](imagens/experimento1)
-![Sistema RFID](imagens/experimento2)
+![Sistema RFID](imagens/experimento1.jpeg)
+![Sistema RFID](imagens/experimento2.jpeg)
 
 ## 📌 Descrição
 
