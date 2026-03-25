@@ -1,19 +1,19 @@
-# 🔐 Sistema Embarcado de Controle de Acesso com RFID e Arduino
+#  Sistema Embarcado de Controle de Acesso com RFID e Arduino
 
-## 📸 Demonstração
+##  Demonstração
 
-![Sistema RFID](imagens/experimento1.jpeg)
-![Sistema RFID](imagens/experimento2.jpeg)
+![Acesso liberado](imagens/experimento1.jpeg)
+![Acesso negado](imagens/experimento2.jpeg)
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto consiste no desenvolvimento de um sistema embarcado de controle de acesso utilizando tecnologia RFID e Arduino. O sistema é capaz de identificar usuários por meio de tags RFID e liberar ou negar acesso com base em uma validação pré-definida.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Simular um sistema real de controle de entrada utilizado em ambientes corporativos e institucionais, aplicando conceitos de eletrônica, sistemas embarcados e programação.
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Arduino UNO
 * Módulo RFID RC522
@@ -21,17 +21,17 @@ Simular um sistema real de controle de entrada utilizado em ambientes corporativ
 * Linguagem C/C++
 * Comunicação SPI
 
-## 🧠 Funcionamento do Sistema
+##  Funcionamento do Sistema
 
 1. O usuário aproxima um cartão/tag RFID do leitor
 2. O sistema realiza a leitura do UID da tag
 3. O UID é comparado com uma lista de usuários autorizados
 4. O sistema responde em tempo real:
 
-   * ✅ Acesso permitido → sinalização por LED + mensagem no LCD
-   * ❌ Acesso negado → sinalização por LED + mensagem no LCD
+   *  Acesso permitido → sinalização por LED + mensagem no LCD
+   *  Acesso negado → sinalização por LED + mensagem no LCD
 
-## 🔌 Componentes Utilizados
+##  Componentes Utilizados
 
 * Arduino UNO
 * Módulo RFID RC522
@@ -41,7 +41,7 @@ Simular um sistema real de controle de entrada utilizado em ambientes corporativ
 * Potenciômetro (10kΩ)
 * Jumpers
 
-## 🧩 Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 O sistema foi estruturado com base em:
 
@@ -50,24 +50,24 @@ O sistema foi estruturado com base em:
 * Saída de dados via display LCD
 * Sinalização visual com LEDs
 
-## 📊 Resultados
+##  Resultados
 
 O sistema apresentou funcionamento estável, realizando corretamente a leitura das tags RFID e a validação de acesso, com resposta em tempo real e feedback visual eficiente.
 
-## 🎥 Demonstração do Projeto
+##  Demonstração do Projeto
 
-👉 https://youtu.be/X8uaER6ztJg
+ https://youtu.be/X8uaER6ztJg
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 rfid-access-control-arduino/
-│── README.md
 │── codigo/
 │── imagens/
+│── README.md
 ```
 
-## 🚀 Possíveis Melhorias
+##  Possíveis Melhorias
 
 * Implementação de registro de acessos (log)
 * Integração com banco de dados
@@ -75,7 +75,7 @@ rfid-access-control-arduino/
 * Interface web para gerenciamento de usuários
 * Sistema de autenticação mais robusto
 
-## 👨‍💻 Autor
+##  Autor
 
 Ulysses Freire da Silva
 Estudante de Engenharia Elétrica – IFCE (Campus Cedro)
