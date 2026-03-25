@@ -56,7 +56,7 @@ O sistema apresentou funcionamento estável, realizando corretamente a leitura d
 
 ##  Demonstração do Projeto
 
- https://youtu.be/X8uaER6ztJg
+ [Assista ao video](https://youtu.be/X8uaER6ztJg)
 
 ##  Estrutura do Repositório
 
