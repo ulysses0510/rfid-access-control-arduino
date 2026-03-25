@@ -80,6 +80,6 @@ rfid-access-control-arduino/
 Ulysses Freire da Silva
 Estudante de Engenharia Elétrica – IFCE (Campus Cedro)
 
-## 📌 Observação
+##  Observação
 
 Projeto desenvolvido em disciplina de Sistemas Microprocessados, com foco em aplicações reais de automação e controle.
