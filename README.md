@@ -50,6 +50,14 @@ O sistema foi estruturado com base em:
 * Saída de dados via display LCD
 * Sinalização visual com LEDs
 
+##  Competências Desenvolvidas
+
+- Programação embarcada em C/C++
+- Comunicação SPI com periféricos
+- Integração de hardware (RFID + LCD + LEDs)
+- Leitura e tratamento de dados (UID)
+- Desenvolvimento de sistemas de controle
+
 ##  Resultados
 
 O sistema apresentou funcionamento estável, realizando corretamente a leitura das tags RFID e a validação de acesso, com resposta em tempo real e feedback visual eficiente.
